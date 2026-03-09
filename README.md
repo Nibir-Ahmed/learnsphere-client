@@ -32,7 +32,7 @@ LearnSphere is a modern full-stack online learning platform where instructors ca
 
 ```bash
 cd client
-cp .env.example .env   # fill in your Firebase & server URL
+cp .env   
 npm install
 npm run dev
 ```
@@ -41,7 +41,7 @@ npm run dev
 
 ```bash
 cd server
-cp .env.example .env   # fill in MongoDB credentials
+cp .env   
 npm install
 npm run dev
 ```
