@@ -6,17 +6,17 @@ LearnSphere is a modern full-stack online learning platform where instructors ca
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-- 🔐 **Secure Authentication** — Email/password and Google login with Firebase, protected private routes, and password validation (uppercase, lowercase, min 6 chars).
-- 📚 **Full Course Management** — Instructors can add, edit, and delete their own courses with real-time updates from MongoDB.
-- 🎯 **Smart Course Filtering** — Browse all courses with live search and category-based filtering to find exactly what you need.
-- 📊 **Personal Dashboard** — Dedicated dashboard to manage added courses and track enrolled courses in one place.
-- 🎨 **Polished Animations** — Smooth Framer Motion animations on the homepage hero, course cards, and section reveals for a premium feel.
+- **Secure Authentication** — Email/password and Google login with Firebase, protected private routes, and password validation (uppercase, lowercase, min 6 chars).
+- **Full Course Management** — Instructors can add, edit, and delete their own courses with real-time updates from MongoDB.
+- **Smart Course Filtering** — Browse all courses with live search and category-based filtering to find exactly what you need.
+- **Personal Dashboard** — Dedicated dashboard to manage added courses and track enrolled courses in one place.
+- **Polished Animations** — Smooth Framer Motion animations on the homepage hero, course cards, and section reveals for a premium feel.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Frontend:** React, Vite, Tailwind CSS, Framer Motion, TanStack Query, Axios, React Router v6, Firebase Auth, React Hot Toast, SweetAlert2
 
@@ -26,7 +26,7 @@ LearnSphere is a modern full-stack online learning platform where instructors ca
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Client
 
